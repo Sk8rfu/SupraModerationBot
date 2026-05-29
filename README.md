@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Sk8rfu/SupraModerationBot/blob/assets/supra.jpg?raw=true?raw=true">
+</p>
+
 # SupraModerationBot
 Мощен Discord модерационен бот, написан на Java + JDA, създаден да направи модерацията лесна, бърза и ефективна.
 
