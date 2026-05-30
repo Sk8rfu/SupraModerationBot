@@ -2,6 +2,15 @@
   <img src="https://github.com/Sk8rfu/SupraModerationBot/blob/assets/supra.jpg?raw=true?raw=true">
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Java-17-orange">
+<img src="https://img.shields.io/badge/Maven-3.8+-blue">
+<img src="https://img.shields.io/badge/JDA-5.0-purple">
+<img src="https://img.shields.io/badge/Build-Success-brightgreen">
+<img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
 # SupraModerationBot
 Мощен Discord модерационен бот, написан на Java + JDA, създаден да направи модерацията лесна, бърза и ефективна.
 
