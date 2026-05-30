@@ -84,7 +84,6 @@ src/
                  ├── listeners/       # Event listeners
                  ├── util/            # Помощни класове
                  ├── Main.java        # Главен клас
-                 ├── App.java
                  └── CommandManager.java
 ```
 
