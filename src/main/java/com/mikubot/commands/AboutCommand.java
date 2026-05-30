@@ -24,11 +24,11 @@ public class AboutCommand {
                 • Роли и прякори
                 • Лог система за всички действия
 
-                👑 **Създател:** HiiragiEclipse
+                👑 **Създател:** Sk8rfu
                 🌐 **Версия:** 1.0.0
                 """);
 
-        embed.setFooter("SupraModerationBot • Създаден с ❤️ от HiiragiEclipse",
+        embed.setFooter("SupraModerationBot • Създаден с ❤️ от Sk8rfu",
                 event.getJDA().getSelfUser().getAvatarUrl());
 
         event.replyEmbeds(embed.build()).queue();
